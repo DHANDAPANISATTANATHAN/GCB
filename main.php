@@ -1,5 +1,5 @@
 <?php
 
-echo "test - SECOND VERSION USING GCB";
+echo "test - SECOND VERSION USING  ff GCB";
 
 ?>
